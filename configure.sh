@@ -104,7 +104,7 @@ function installMac {
 function doneMessage {
   echo ""
   echo "OpenBazaar configuration finished."
-  echo "type './openbazaar $1start; tail -F logs/production.log' to start your OpenBazaar servent instance and monitor logging output."
+  echo "type './openbazaar $1start; tail -F logs/production.log' to start your OpenBazaar server instance and monitor logging output."
   echo ""
   echo ""
   echo ""
